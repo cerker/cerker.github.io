@@ -1,3 +1,0 @@
-= ASCIIDoc Test
-
-This is a test.
